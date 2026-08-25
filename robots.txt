@@ -1,0 +1,10 @@
+# nattom666.github.io 全体のクローラ向け設定。
+# GitHub Pages では、プロジェクトページ配下の robots.txt は読まれない。
+# 効くのはこのドメイン直下の1枚だけなので、配下のサイトマップもここで宣言する。
+
+User-agent: *
+Allow: /
+
+Sitemap: https://nattom666.github.io/sitemap.xml
+Sitemap: https://nattom666.github.io/production_area/sitemap.xml
+Sitemap: https://nattom666.github.io/parking-free-calc/sitemap.xml
