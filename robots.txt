@@ -11,3 +11,4 @@ Sitemap: https://nattom666.github.io/parking-free-calc/sitemap.xml
 Sitemap: https://nattom666.github.io/national_flag_quiz/sitemap.xml
 Sitemap: https://nattom666.github.io/kanji_reading_quiz/sitemap.xml
 Sitemap: https://nattom666.github.io/npb-map/sitemap.xml
+Sitemap: https://nattom666.github.io/koshien-roots/sitemap.xml
