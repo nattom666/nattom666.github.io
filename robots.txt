@@ -14,4 +14,4 @@ Sitemap: https://nattom666.github.io/npb-map/sitemap.xml
 Sitemap: https://nattom666.github.io/koshien-roots/sitemap.xml
 Sitemap: https://nattom666.github.io/animal-cart/sitemap.xml
 Sitemap: https://nattom666.github.io/kansai-park-map/sitemap.xml
-Sitemap: https://nattom666.github.io/guess-my-year/sitemap.xml
+Sitemap: https://nattom666.github.io/guess/sitemap.xml
